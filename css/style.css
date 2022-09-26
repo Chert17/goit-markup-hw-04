@@ -18,6 +18,10 @@ body {
   color: var(--p-color);
 }
 
+img {
+  display: block;
+}
+
 .container {
   width: 1200px;
   padding-left: 15px;
